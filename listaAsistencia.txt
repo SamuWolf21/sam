@@ -1,0 +1,3 @@
+0 Mi nombre es Sutano y domino GIT y quiero mi 10
+1 Mi nombre es Fulano y domino GIT y quiero mi 10
+2 Mi nombre es Mengano y domino GIT y quiero mi 10 
