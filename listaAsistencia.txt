@@ -1,2 +1,3 @@
 0 Mi nombre es Antonio y domino Git y quiero mi 10
 1 Mi nombre es Alexa y domino GIT y quiero mi 10 
+0 Mi nombre es Armando y quiero mi 10
