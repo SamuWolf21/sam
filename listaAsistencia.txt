@@ -5,3 +5,4 @@
 4 Mi nombre es Josue y quiero mi 10
 5 Mi nombre es Abraham y quiero mi 10
 6 Mi nombre es Saul R y quiero mi 10
+7 Mi nombre es Johan y quiero mi 10
